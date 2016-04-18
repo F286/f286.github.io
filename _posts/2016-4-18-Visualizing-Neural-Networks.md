@@ -16,7 +16,5 @@ This is the basic structure for a single LSTM (long short term memory) unit. Thi
 **note** - when I first heard 'derivative' it seemed really complicated, but actually it turned out to be quick simple. It really just describes the relationship between two 'nodes' in our network. Basically it means, if I add **1** to node A, how much does Node B increase by?
 
 Unity 5.4
-
 Scene name is 'Scene Gradient'
-
 [Machine Learning Repo](link:https://github.com/F286/Machine-Learning)
