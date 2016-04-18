@@ -2,6 +2,7 @@
 layout: post
 title: Visualizing Neural Networks
 published: true
+youtubeId: W8hBHKV91us
 ---
 
 I've been working in unity recently to try and get a feeling for neural networks, one of the biggest challenges I've found is visualizing the values and derivatives in an way that's easy to understand. If the information is presented as just a wall of numbers it can be hard to understand.
