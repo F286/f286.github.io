@@ -19,4 +19,5 @@ Please contact us if you have a project and we would be happy to provide an esti
 ### Contact me
 
 [freedebreuil@gmail.com](mailto:freedebreuil@gmail.com)
+
 [www.binarypipeline.com](link:www.binarypipeline.com)
