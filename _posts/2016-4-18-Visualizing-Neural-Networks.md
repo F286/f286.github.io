@@ -5,7 +5,7 @@ published: true
 youtubeId: W8hBHKV91us
 ---
 
-I've been testing of different types of visualizations for neural networks in unity recently. I think this is one of the biggest challenges, especially once the networks become very large. Generally the information is presented as a 'wall of numbers' which is quite opaque, I'm experimenting with size, color and movement to visualize the simple add, multiply, and sigmoid nodes of a single LSTM (long short term memory) unit. Being able to get my hands on and 'tweak' the values is important to get a feel for how these systems work I think.
+I've been working on visualizations for neural networks recently, this is possible for small networks or inside neurons, but can become difficult as the networks become large. The information is sometimes presented as a 'wall of numbers', which I find hard to understand, so I'm experimenting with creating a simple visualization for the internal structure of a simple neuron 'unit', then extending that for more complex networks.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
