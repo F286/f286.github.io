@@ -6,7 +6,7 @@ published: true
 
 I've been working in unity recently to try and get a feeling for neural networks, one of the biggest challenges I've found is visualizing the values and derivatives in an way that's easy to understand. If the information is presented as just a wall of numbers it can be hard to understand.
 
-https://youtu.be/W8hBHKV91us
+{% include youtubePlayer.html id=page.youtubeId %}
 
 In this example, the block size and color shows the value of the block. The block spin speed show the derivative. 
 
