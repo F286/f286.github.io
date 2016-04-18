@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: "You're up and running!"
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I've been working in unity recently to try and get a feeling for neural networks, one of the biggest challenges I've found is visualizing the values and derivatives in an way that's easy to understand. If the information is presented as just a wall of numbers it can be hard to understand.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+https://youtu.be/W8hBHKV91us
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In this example, the block size and color shows the value of the block. The block spin speed show the derivative. 
+
+This is the basic structure for a single LSTM (long short term memory unit). This is a special type of neuron that can remember values over multiply frames. The box that starts red is telling the system whether to _remember_ or not.
+
+**note** - a derivative, in a nutshell, is _if I increase this node's value by 1, how much will in output increase?_
