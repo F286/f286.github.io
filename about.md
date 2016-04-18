@@ -20,4 +20,4 @@ Please contact us if you have a project and we would be happy to provide an esti
 
 [freedebreuil@gmail.com](mailto:freedebreuil@gmail.com)
 
-[www.binarypipeline.com](link:www.binarypipeline.com)
+[binarypipeline.com](link:binarypipeline.com)
