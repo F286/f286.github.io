@@ -14,3 +14,5 @@ In this example, the block size and color shows the value of the block. The bloc
 This is the basic structure for a single LSTM (long short term memory unit). This is a special type of neuron that can remember values over multiply frames. The box that starts red is telling the system whether to _remember_ or not.
 
 **note** - a derivative, in a nutshell, is _if I increase this node's value by 1, how much will in output increase?_
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/W8hBHKV91us" frameborder="0" allowfullscreen></iframe>
