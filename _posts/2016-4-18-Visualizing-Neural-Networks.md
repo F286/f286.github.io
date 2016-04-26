@@ -7,7 +7,9 @@ youtubeId: W8hBHKV91us
 
 I've been working on visualizations for neural networks recently, the example provided is for a simple type of recursive network. Looking at the information directly can be an opaque 'wall of numbers', so I'm experimenting with creating a simple visual repersentation to show the value and derivative (gradient) of each node.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+![lstm 1.png]({{site.baseurl}}/_posts/lstm 1.png)
+![lstm 2.png]({{site.baseurl}}/_posts/lstm 2.png)
+![lstm 3.png]({{site.baseurl}}/_posts/lstm 3.png)
 
 In this example, the block size and color shows the value of the block. The block spin speed show the derivative. 
 
@@ -18,3 +20,5 @@ This is the basic structure for a single LSTM (long short term memory) unit. Thi
 Unity 5.4
 Scene name is 'Scene Gradient'
 [Machine Learning Repo](link:https://github.com/F286/Machine-Learning)
+
+{% include youtubePlayer.html id=page.youtubeId %}
