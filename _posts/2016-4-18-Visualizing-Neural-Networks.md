@@ -7,9 +7,9 @@ youtubeId: W8hBHKV91us
 
 I've been working on visualizations for neural networks recently, the example provided is for a simple type of recursive network. Looking at the information directly can be an opaque 'wall of numbers', so I'm experimenting with creating a simple visual repersentation to show the value and derivative (gradient) of each node.
 
-![lstm 1.png]({{site.baseurl}}/_posts/lstm 1.png)
-![lstm 2.png]({{site.baseurl}}/_posts/lstm 2.png)
-![lstm 3.png]({{site.baseurl}}/_posts/lstm 3.png)
+![lstm 1.png]({{site.baseurl}}/_posts/lstm1.png)
+![lstm 2.png]({{site.baseurl}}/_posts/lstm2.png)
+![lstm 3.png]({{site.baseurl}}/_posts/lstm3.png)
 
 In this example, the block size and color shows the value of the block. The block spin speed show the derivative. 
 
