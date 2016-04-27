@@ -10,7 +10,7 @@ I've been working on visualizations for neural networks recently, the example pr
 ![lstm1.png]({{site.baseurl}}/_posts/lstm1.png)
 ![lstm2.png]({{site.baseurl}}/_posts/lstm2.png)
 ![lstm3.png]({{site.baseurl}}/_posts/lstm3.png)
-![jekyll-logo.png.png]({{site.baseurl}}/images/jekyll-logo.png.png)
+![jekyll-logo.png]({{site.baseurl}}/images/jekyll-logo.png)
 
 In this example, the block size and color shows the value of the block. The block spin speed show the derivative. 
 
