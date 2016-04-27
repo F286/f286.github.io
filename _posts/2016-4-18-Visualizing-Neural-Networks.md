@@ -19,4 +19,3 @@ Unity 5.4
 Scene name is 'Scene Gradient'
 [Machine Learning Repo](link:https://github.com/F286/Machine-Learning)
 
-{% include youtubePlayer.html id=page.youtubeId %}
