@@ -15,10 +15,10 @@ In a nutshell, when we 'look' at the pixel of a previous layer, we also look at 
 
 The way we organize the 'nodes' in a network is a 2D grid, and generally we look at the same 'spot' on the previous layer. Remember though, that we are also slightly 'peeking' at the surrounding pixels. In practice, as we pass through layers we can detect more and more complex **features**.
 
-Features can thought of as 'relevant, interesting bits about the image which help the brain to recognize it'. These will naturally fall out of training the network. An example of a very simple features might be an edge or gradient (remember, 3x3 pixels). As the network moves through more and more layers, it will detect things like checkerboard patterns, circles, and eventually even things like faces or dogs (although this depends on the training data). Low level features tend to be similar across images. Neural networks can seem complicated at first, but really we are just creating (and training!) feature detectors, which we arrange like a giant sandwich so at first we detect very simple features, but through many layers can detect more and more complex features. Most convolution networks have something like 5-7 layers. 
+We can think of **features* as important bits of the image which help us recognize it. The incredible thing about neural networks that that these will be created naturally as we train the network with _gradient descent_. An example of a simple feature on the first layer is an edge, a more complex feature would be a checkerboard pattern. Neural networks (and maybe humans?) at the very core are pattern detectors, if we make a giant super sandwich of pattern detectors we can eventually do things like detect if a picture is a cat or dog. For a 'hand wavey' sense of what these things are, we generally need something like 5 layers to detect if this is a dog or cat.
 
-It is interesting to note that every feature detector for a layer will run on every pixel of the previous layer. That's a lot of calculation! This below is me writing out the im2col implementation to try and understand it. This is commonly used to compute a convolution layer.
+This below is me writing out the im2col function, which is used to compute an entire layer (all pixels) at once, using matrix multiplication. Note that every feature (pattern) detector will run on every pixel position of the image.
 
 ![Convolution]({{site.baseurl}}/images/convolution1.jpg)
 
-* notice that the original 4x4 image is now 2x2, padding can be added to the original image to keep the shape.
+* note that the final output is 2x2, less than the original 4x4. Padding can be added to the image to avoid this.
