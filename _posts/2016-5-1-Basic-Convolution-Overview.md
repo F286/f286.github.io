@@ -21,4 +21,4 @@ This below is me writing out the im2col function, which is used to compute an en
 
 ![Convolution]({{site.baseurl}}/images/convolution1.jpg)
 
-> the final output is 2x2, less than the original 4x4. Padding can be added to the image to avoid this.
+> The final output is 2x2, less than the original 4x4. Padding can be added to the image to avoid this.
