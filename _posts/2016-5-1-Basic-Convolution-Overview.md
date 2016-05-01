@@ -7,11 +7,11 @@ youtubeId: W8hBHKV91us
 
 This is a basic overview of a convolutional neural network, which are used for tasks such as image recognition. 
 
-*What is a convolution? 
+## What is a convolution?
 
 In a nutshell, when we 'look' at the pixel of a previous layer, we also look at the surrounding pixels so we have a bit of context of the tiny little area we are looking at. If we just look at the pixel of a previous layer, we can say "oh, it's dark", but if we look at the surrounding pixels maybe we can say "oh, this is maybe an edge". This tends to be more useful, and works good for images since how pixels are positioned relative to each other tends to be important.
 
-*Ok, but what does this mean in a network?
+## Ok, but what does this mean in a network?
 
 The way we organize the 'nodes' in a network is a 2D grid, and generally we look at the same 'spot' on the previous layer. Remember though, that we are also slightly 'peeking' at the surrounding pixels. In practice, as we pass through layers we can detect more and more complex **features**.
 
