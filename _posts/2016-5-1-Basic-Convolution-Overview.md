@@ -21,4 +21,4 @@ Below is how to compute a convolutional layer written out. The first function is
 
 ![Convolution]({{site.baseurl}}/images/convolution1.jpg)
 
-> The final output is 2x2, less than the original 4x4. Padding can be added to the image to avoid this.
+> The final output is 2x2, less than the original 4x4. Padding can be added to the image to avoid this. The example is converting the kernels to rows, maybe columns is more standard.
