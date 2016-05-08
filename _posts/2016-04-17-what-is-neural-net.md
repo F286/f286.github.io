@@ -1,3 +1,9 @@
+---
+layout: post
+title: What is a Neural Network?
+published: true
+---
+
 ## What is a neural network?
 
 A neural network is a program which emulates the structure of biological brains. Instead of telling the computer very specifically what to do, we create _neurons_ and connections between them, then train the networks with a large amount of data. So for example, to detect if a picture is a cat or a dog, if we provide the network with enough pictures of 'a cat' and 'a dog', we can train it to be able to tell the difference.
