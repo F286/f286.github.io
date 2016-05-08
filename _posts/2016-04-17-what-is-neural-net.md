@@ -10,4 +10,4 @@ A neural network is a simulation which emulates the structure of a brain. Instea
 
 Well, we cheat. We show it images we know the answer to. If it it wrong, we look at the network and 'tweak' the values so it gives the right answer. We can calculate how much we have to change values in the neurons to get the 'correct' answer. This is done using calculus and derivatives.
 
-Maybe the next question is, how does the human brain learn?
+Is this how the human brain learns?
