@@ -4,7 +4,7 @@ title: What is a Neural Network?
 published: true
 ---
 
-A neural network is a simulation which emulates the structure of a brain. Instead of directly telling the computer what to do, we create _neurons_ and _connections_, then train the simulation with data. For example, to classify a picture, if we give enough pictures of **cats** and **dogs**, we can train the network to tell the difference.
+A neural network is a simulation which emulates the structure of a brain. Instead of directly telling the computer what to do, we create _neurons_ and _connections_, then train the simulation with data. For example, to classify a picture, if we show it enough pictures of **cats** and **dogs**, we can train the network to tell the difference.
 
 ## How exactly do we train them?
 
