@@ -12,4 +12,4 @@ Well, we cheat. We show it images we know the answer to. If it it wrong, we look
 
 ![Neural Net Structure]({{site.baseurl}}/images/neuralNet1.jpg)
 
-Is this how the human brain learns?
+> Is this how the human brain learns?
