@@ -4,4 +4,4 @@ title: Design Reference for Flow
 published: true
 ---
 
-![Neural Net Structure]({{site.baseurl}}/images/flow.jpg)
+![Design Reference]({{site.baseurl}}/images/flow.png)
