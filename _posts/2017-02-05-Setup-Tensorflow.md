@@ -92,3 +92,11 @@ Open the Anaconda prompt (Run as Administrator)
 `pip install git+git://github.com/Theano/Theano.git`
 
 `pip install git+git://github.com/fchollet/keras.git`
+
+## Additional Dependencies
+
+Depending on what libraries that you use you may need to install some extra packages, this can be eaisly done by opening the _Anaconda Prompt_, logging into your virtual environment, and installing the package.
+
+`pip install matplotlib`
+
+`conda install Pillow`
