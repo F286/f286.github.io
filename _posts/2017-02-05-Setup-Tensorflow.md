@@ -15,27 +15,27 @@ Open the Anaconda command prompt and type these in, line by line. (copied from [
 
 # GPU version
 
-`conda create --name tensorflow python=3.5
+`conda create --name tensorflow python=3.5`
 
-activate tensorflow
+`activate tensorflow`
 
-conda install jupyter
+`conda install jupyter`
 
-conda install scipy
+`conda install scipy`
 
-pip install tensorflow`
+`pip install tensorflow`
 
 # CPU version
 
-`conda create --name tensorflow python=3.5
+`conda create --name tensorflow python=3.5`
 
-activate tensorflow
+`activate tensorflow`
 
-conda install jupyter
+`conda install jupyter`
 
-conda install scipy
+`conda install scipy`
 
-pip install tensorflow`
+`pip install tensorflow`
 
 ## Setup IDE
 
