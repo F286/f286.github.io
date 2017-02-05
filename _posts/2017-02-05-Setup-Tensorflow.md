@@ -67,11 +67,13 @@ It looks like this, change the right part to what it is on your computer.
 
 ## Relogin to Anaconda Prompt
 
-Type this into console to 'log back into' virtual environment if you close the Anaconda Prompt.
+Type this into console to 'log back into' virtual environment if you close the Anaconda Prompt. You may have to right click and _Open as Administrator_ for it to work properly.
 
 `activate tensorflow`
 
 ## How to install Keras (additional)
+
+Instructions from [here](http://stackoverflow.com/questions/34097988/how-do-i-install-keras-and-theano-in-anaconda-python-2-7-on-windows).
 
 Install TDM GCC x64.
 
