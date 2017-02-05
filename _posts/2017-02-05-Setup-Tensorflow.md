@@ -13,7 +13,7 @@ Download the latest version [here](https://www.continuum.io/downloads).
 
 Open the Anaconda command prompt and type these in, line by line. (copied from [here](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html))
 
-# GPU version
+### GPU version
 
 `conda create --name tensorflow python=3.5`
 
@@ -25,7 +25,7 @@ Open the Anaconda command prompt and type these in, line by line. (copied from [
 
 `pip install tensorflow`
 
-# CPU version
+### CPU version
 
 `conda create --name tensorflow python=3.5`
 
