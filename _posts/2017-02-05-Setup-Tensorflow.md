@@ -79,14 +79,16 @@ Install TDM GCC x64.
 
 Install Anaconda x64.
 
-Open the Anaconda prompt
+Open the Anaconda prompt (Run as Administrator)
 
-Run `conda update conda`
+`conda update conda`
 
-Run `conda update --all`
+`conda update --all`
 
-Run `conda install mingw libpython`
+`conda install mingw libpython`
 
-Install the latest version of Theano, `pip install git+git://github.com/Theano/Theano.git`
+### Install the latest version of Theano and Keras
 
-Run `pip install git+git://github.com/fchollet/keras.git`
+`pip install git+git://github.com/Theano/Theano.git`
+
+`pip install git+git://github.com/fchollet/keras.git`
