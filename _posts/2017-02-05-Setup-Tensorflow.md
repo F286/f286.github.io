@@ -64,3 +64,27 @@ I had already added _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin
 It looks like this, change the right part to what it is on your computer.
 
 `set PATH=%PATH%;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin`
+
+## Relogin to Anaconda Prompt
+
+Type this into console to 'log back into' virtual environment if you close the Anaconda Prompt.
+
+`activate tensorflow`
+
+## How to install Keras (additional)
+
+Install TDM GCC x64.
+
+Install Anaconda x64.
+
+Open the Anaconda prompt
+
+Run `conda update conda`
+
+Run `conda update --all`
+
+Run `conda install mingw libpython`
+
+Install the latest version of Theano, `pip install git+git://github.com/Theano/Theano.git`
+
+Run `pip install git+git://github.com/fchollet/keras.git`
