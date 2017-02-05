@@ -3,7 +3,7 @@ published: true
 ---
 ## Install CUDA (v8.0)
 
-You might need to make an NVIDIA developer account to do this, it's free.
+Download [here](https://developer.nvidia.com/cuda-downloads). You might need to make an NVIDIA developer account to do this, it's free. 
 
 ## Install Anaconda
 
