@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Install CUDA (v8.0)
 
