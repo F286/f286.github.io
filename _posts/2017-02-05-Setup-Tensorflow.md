@@ -7,7 +7,7 @@ You might need to make an NVIDIA developer account to do this, it's free.
 
 ## Install Anaconda
 
-I used the latest version.
+Download the latest version [here](https://www.continuum.io/downloads).
 
 ## Create virtualenv (virtual environment) in Anaconda
 
@@ -29,9 +29,11 @@ conda install jupyter
 conda install scipy
 pip install tensorflow`
 
-## Use specific environment in PyCharm
+## Setup IDE
 
-Anaconda creates a virtual environment for the Python (I used community edition), you can set this in the Project Interperter page look for python.exe in the install directory. Anaconda created the virtual environment on my computer at _C:\ProgramData\Anaconda3\envs\tensorflow_, but this may vary.
+Anaconda creates a virtual environment (_virtualenv_) for the Python but that just like dlls and stuff used to build the project, you will need an IDE to write the python. It might be possible on command line too but that's painfun : ) For the IDE I'm using **PyCharm**, there's a free Community Edition that works fine. Create a new Project in PyCharm and then goto Help/Find Action.. and type_ Project Interpreter_ and press Enter. Click the little gear at the top right and press **Add Local**, navigate to where Anaconda installed the _virtualenv_ on you computer and find the _python.exe_ file and press OK. 
+
+On my computer the _virtualenv_ was located at _C:\ProgramData\Anaconda3\envs\tensorflow_
 
 ## Extra stuff do do with CUDA
 
