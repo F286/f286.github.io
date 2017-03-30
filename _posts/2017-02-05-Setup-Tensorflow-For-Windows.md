@@ -47,7 +47,10 @@ On my computer the _virtualenv_ was located at _C:\ProgramData\Anaconda3\envs\te
 
 https://developer.nvidia.com/rdp/cudnn-download
 
+Download cuDNN v5.1 (Jan 20, 2017), for CUDA 8.0 ?
+
 Thanks. This was the problem (I hadn't placed cudnn in the proper location) - I copied it into the nVidia CUDA install location. I downloaded Windows 7 Version cuDNN - incase other people are wondering.
+
 The directories line up with the downloaded cuDNN thing and the CUDA Install folder, so copy the contents of the cuDNN zip into the CUDA install folder.
 
 I then copied the _cudnn645.dll (cuda\bin\cudnn645.dll)_ from that zip archive into _C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\;_
