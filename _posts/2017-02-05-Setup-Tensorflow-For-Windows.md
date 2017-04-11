@@ -106,3 +106,15 @@ Depending on what libraries that you use you may need to install some extra pack
 `pip install matplotlib`
 
 `conda install Pillow`
+
+## Show TensorBoard
+
+Goto Anaconda prompt, 'activate tensorflow' (or specific virtual environment that you are using), then navigate to the project directory on disk. Remember that just _D:_ will navigate you to a drive on windows.
+
+Type this
+
+tensorboard --logdir=facades_train
+
+Then goto the URL it shows in a browser, such as this.
+
+http://192.168.1.179:6006
