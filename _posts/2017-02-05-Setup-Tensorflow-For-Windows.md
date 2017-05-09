@@ -113,7 +113,7 @@ Goto Anaconda prompt, 'activate tensorflow' (or specific virtual environment tha
 
 Type this
 
-tensorboard --logdir=foreground_train
+	tensorboard --logdir=foreground_train
 
 Then goto the URL it shows in a browser, such as this.
 
