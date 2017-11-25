@@ -5,11 +5,9 @@ published: true
 
 When creating apps at Tinybop generally the same sort of issues came up even though the content each app was quite different. 
 
-For example, at the start of the app creation process we were all open to ideas and approaches, but it would often very quickly 'calcify' on one design and it would become difficult to change the design, even if it wasn't working. The solution we came up for this was to quickly create working prototypes, and pick the one that fit the best.
+For example, once the art assets were created, it constrained the design since anything too different would involve throwing away work. Since design is already constrained by multiple factors, adding one more factor could make things difficult. The solution we came up for this was to wait to create art assets until after we were happy with the design of a prototype.
 
-Another issue was that once the art assets were created, it constrained the design since anything too different would involve throwing away work. Since design is already constrained by multiple factors, adding one more factor can make things very difficult. The solution we came up for this was to wait to create art assets until after we were happy with the design of a prototype.
-
-In general, a lot of pain was avoided by just carefully choosing the order that we did things. Out of design, art and programming, this can have the most impact on the overall design of an app. Below is the process we followed at Tinybop, although a different process with the same ordering could also work.
+In general, a lot of pain was avoided by carefully choosing the order that we did things. Below is the process we followed at Tinybop, any process that follows this sort of ordering should work however.
 
 ## Prototyping
 
