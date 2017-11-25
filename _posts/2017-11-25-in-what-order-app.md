@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## In what order should we do things when creating an app?
 
