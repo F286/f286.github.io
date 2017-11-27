@@ -9,6 +9,6 @@ Prototyping is the iteration of the structure of an app. It involves mostly desi
 
 ## Development
 
-Development is the adding of art assets to the app, and fleshing out the app based on the prototype. It involves artists (to create art assets), programmers (to create the app) and designers (to make sure the overall vision is being achieved). Once art assets are created, it becomes very difficult to change anything, so we should be careful on the timing of the creation of art assets.
+Development is the adding of art assets to the app, and fleshing out the app based on the prototype. It involves artists, programmers to create the app and designers to make sure the overall vision is being achieved. Once art assets are created, it becomes difficult to change things, so we should be careful on the timing of the creation of art assets.
 
-Finally a polish phase can be useful, this is what brings the app from 90% to 100%. It involves mostly programmers. I general we should not change functionality here, but fix all the little issues that will make the app seem slightly cheap. Polished graphics with Disney's [Illusion of Life](https://vimeo.com/93206523), interactions that feel good and don't hitch, short load times and gameplay tweaks.
+Finally a polish phase can be useful, this is what brings the app from 90% to 100%. In general functionality does not change here. Polished graphics with Disney's [Illusion of Life](https://vimeo.com/93206523), interactions that feel good and don't hitch, short load times and gameplay tweaks.
