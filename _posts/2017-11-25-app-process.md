@@ -13,7 +13,7 @@ In general, a lot of pain was avoided by carefully choosing the order that we di
 
 Prototyping is the iteration of the structure of an app. It involves mostly designers (to figure out what to do) and programmers (to figure out how to do it). Often there are technical constraints or something 'doesn't work' very well when actually tested on device, there needs to be an iteration loop involving the designer and the programmer.
 
-It is important to make multiple fundamentally different prototypes, and then to pick the most effective one. If there is only one prototype then it is just development, not a prototype. There is a strong tendency to get *locked in* to an approach if only one approach is being examined, which will lead to medium to long term problems.
+**It is important to make multiple fundamentally different prototypes, and then to pick the most effective one.** If there is only one prototype then it is just development, not a prototype. There is a strong tendency to get *locked in* to an approach if only one approach is being examined, which will lead to medium to long term problems.
 
 ## Building
 
