@@ -1,22 +1,24 @@
 ---
 published: true
 ---
-Pay attention and speak the truth.
+Pay attention, speak properly, and tell the truth.
 
-The truth will compel you to change, do this even if it feels bad. A phoenix must burn away and die before it is reborn into something greater.
+The truth will compel change, do this even if it feels bad. 
 
-Love yourself and calm your mind, this will win back your own heart.
+A phoenix burns away and dies before being reborn into something greater.
 
-Detach to observe yourself when emotional, this will free your own mind.
+Love yourself and calm the mind, this will win back the heart.
+
+Detach when emotional, this will free the mind.
 
 Create a good atmosphere, this will give you allies.
 
-Speak and write properly, this will give you power.
+Speak and write articulately, this will give you power.
 
-Learn to accept suffering, then you will transcend it and
+Learn to accept suffering, then you will transcend it.
 
-Become some sort of hero, this will give your life meaning.
+And become some sort of hero, this will give you meaning.
 
-Pay attention and speak the truth.
+Pay attention, speak properly, and tell the truth.
 
 Then you will know the truth, and the truth will set you free.
