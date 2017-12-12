@@ -5,7 +5,7 @@ Pay attention, speak properly, and tell the truth.
 
 The truth will compel change, do this even if it feels bad. 
 
-A phoenix burns away and dies before being reborn into something greater.
+A phoenix burns away, dies before being reborn into something greater.
 
 Love yourself and calm the mind, this will win back the heart.
 
