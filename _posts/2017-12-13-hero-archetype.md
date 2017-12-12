@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Hero Archetype
 
@@ -20,4 +20,3 @@ Learn to accept suffering, then you will transcend it and
 Become some sort of hero, this will give your life meaning.
 
 Pay attention and speak the truth. Then you will know the truth, and the truth will set you free.
-
