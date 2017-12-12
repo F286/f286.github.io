@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Hero Archetype
-
 Pay attention and speak the truth.
 
 The truth will compel you to change, do this even if it feels bad. A phoenix must burn away and die before it can be reborn into something greater.
