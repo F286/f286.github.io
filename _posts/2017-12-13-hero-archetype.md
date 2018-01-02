@@ -27,7 +27,9 @@ Through sacrifice you can save what you love most.
 
 A hero will die voluntarily and be born anew. Or perhaps, learn.
 
-#　ヒーローの原型
+#Hero
+#ヒーローの原型
+##Translation
 
 学ぶことは自分を殺して、新しく生まれ変わることだ。
 
