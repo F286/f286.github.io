@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# Core Approach
-
 ## Leadership
 
 - Important to have a good atmosphere : )
