@@ -11,14 +11,6 @@ published: true
 
 - Read Extreme Ownership by Jocko Willink. 
 
-## Overview
-
-All of this will directly lead to less bugs, faster development, and a higher quality product. The code will be simpler, which means less bugs. This will let you focus on fun things such as making the app, instead of staying up until morning to fix an iPad specific bug. Unity will be leveraged, this will let you develop at least three times faster. This means more beach time and less working weekends time. Design will be integrated, which means you won't have to redo the same thing three times.<sup>1</sup> 
-
-Expanding your mindset can feel like changing your religion. The hero will do this, painfully, and be reborn. Be the hero. Slay the dragon. Get the princess.
-
-<sup>1</sup> Relatively modest increases in productivity will lead to exponential increases in output, since the 'rich get richer, and the poor get poorer'. Related to the Pareto Distribution. [Link](https://youtu.be/-k_FfS1kHfY)
-
 ## Design
 
 When developing apps professionally as general guidelines we do things in three phases. *Prototype, Build, and Polish*.
@@ -86,3 +78,11 @@ Android native functionality)
 will lead to more bugs and is harder to maintain
 
 - Don’t over structure code. It’s good to keep state as public fields so they can be viewable from the inspector.
+
+## Conclusion
+
+All of this will directly lead to less bugs, faster development, and a higher quality product. The code will be simpler, which means less bugs. This will let you focus on fun things such as making the app, instead of staying up until morning to fix an iPad specific bug. Unity will be leveraged, this will let you develop at least three times faster. This means more beach time and less working weekends time. Design will be integrated, which means you won't have to redo the same thing three times.<sup>1</sup> 
+
+Expanding your mindset can feel like changing your religion. The hero will do this, painfully, and be reborn. Be the hero. Slay the dragon. Get the princess.
+
+<sup>1</sup> Relatively modest increases in productivity will lead to exponential increases in output, since the 'rich get richer, and the poor get poorer'. Related to the Pareto Distribution. [Link](https://youtu.be/-k_FfS1kHfY)
