@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 ---
-## What makes a team successful?
+# What makes a team successful?
 
-### Good Atmosphere
+## Good Atmosphere
 
 Positivity
 
@@ -11,7 +11,7 @@ Body language
 
 How team members feel as opposed to what they think
 
-### Communication
+## Communication
 
 Understand things from their perspective
 
@@ -19,7 +19,7 @@ Open atmosphere
 
 Active listening
 
-### Meaning
+## Meaning
 
 I think teams feel they're doing something meaningful if given the chance upfront before the project to express and outline what and how they would like to approach something and effectively have a say in the vision, as opposed to having a leader simply tell them what they need to do.
 
