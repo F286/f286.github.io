@@ -6,9 +6,17 @@ published: false
 ## Good Atmosphere
 
 ### Overview
-In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. 
+In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. How people feel is generally more important how they think, a majority of decisions are made emotionally (feeling mind) then rationalized post-hoc. (thinking mind) The opposite of a good atmosphere is toxicity. A good atmosphere will lead to trust between team members, which will allow them to work together and communicate.
 
 ### Reduce Toxicity
+If you are bitter, feel graditiude instead as it is the opposite emotion.
+Don't blame others, take personal responsibility instead.
+
+### Improve Atmosphere
+
+
+One of the most dangerous things on a team is toxicity. This is perhaps caused by bitterness, 
+Move them from hell (feeling negative) to earth (feeling neutral). 
 
 This will cause team members go from a deep ache in their heart to simply doing an unplesant task. Team members who are hurting will generate toxicity, this must be neutralized with graditude, positivity, and positive body language. 
 
