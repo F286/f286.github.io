@@ -6,13 +6,18 @@ published: false
 ## Good Atmosphere
 
 ### Overview
-In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. How people feel is generally more important how they think, a majority of decisions are made emotionally (feeling mind) then rationalized post-hoc. (thinking mind) The opposite of a good atmosphere is toxicity. A good atmosphere will lead to trust between team members, which will allow them to work together and communicate.
+In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. How people feel is generally more important how they think. Most decisions are made emotionally (feeling mind) then rationalized post-hoc. (thinking mind) The opposite of a good atmosphere is toxicity. A good atmosphere will lead to trust between team members, which will allow them to work together and communicate.
 
 ### Reduce Toxicity
 If you are bitter, feel graditiude instead as it is the opposite emotion.
 Don't blame others, take personal responsibility instead.
 
-### Improve Atmosphere
+### Good Atmosphere
+Be positive.
+Smile and use positive body language.
+Be funny and tell jokes, especially self deprecating ones.
+Actually listen to what your coworker is saying - meditate on it. Assume they are smarter than you.
+Tell the truth, don't be a weasel.
 
 
 One of the most dangerous things on a team is toxicity. This is perhaps caused by bitterness, 
@@ -54,6 +59,7 @@ Body language
 How team members feel as opposed to what they think
 
 ## Communication
+It's all about communication! The reason to create a good atmosphere is so that the team can communicate with each other.
 
 Understand things from their perspective
 
@@ -62,6 +68,7 @@ Open atmosphere
 Active listening
 
 ## Meaning
+It's all about meaning! The reason to be able to communicate is to do something meaningful.
 
 I think teams feel they're doing something meaningful if given the chance upfront before the project to express and outline what and how they would like to approach something and effectively have a say in the vision, as opposed to having a leader simply tell them what they need to do.
 
