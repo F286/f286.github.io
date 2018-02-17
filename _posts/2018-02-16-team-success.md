@@ -6,57 +6,18 @@ published: false
 ## Good Atmosphere
 
 ### Overview
-In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. How people feel is generally more important how they think. Most decisions are made emotionally (feeling mind) then rationalized post-hoc. (thinking mind) The opposite of a good atmosphere is toxicity. A good atmosphere will lead to trust between team members, which will allow them to work together and communicate.
+In my experience, the most fundamental layer of getting a team to work is to first create a good atmosphere. How people feel is generally more important how they think. Most decisions are made emotionally (feeling mind) then rationalized post-hoc. (thinking mind) The opposite of a good atmosphere is toxicity. A good atmosphere reduces friction which will lead to trust between team members. This will allow them to work together and communicate.
 
 ### Reduce Toxicity
 If you are bitter, feel graditiude instead as it is the opposite emotion.
 Don't blame others, take personal responsibility instead.
 
 ### Good Atmosphere
-Be positive.
+Be positive, empathize.
 Smile and use positive body language.
 Be funny and tell jokes, especially self deprecating ones.
 Actually listen to what your coworker is saying - meditate on it. Assume they are smarter than you.
 Tell the truth, don't be a weasel.
-
-
-One of the most dangerous things on a team is toxicity. This is perhaps caused by bitterness, 
-Move them from hell (feeling negative) to earth (feeling neutral). 
-
-This will cause team members go from a deep ache in their heart to simply doing an unplesant task. Team members who are hurting will generate toxicity, this must be neutralized with graditude, positivity, and positive body language. 
-
-### Improve atmosphere
-Avoid any sort of blaming, and take personal responsibility for the most unplesant tasks, and others will follow your example.
-
-Any team will have friction and issues, 
-
-If you parachute into the 'project from hell deathmarch',  This improves how everyone _feels_, 
-A good atmosphere can be created by first eliminating it's opposite, toxicity.
-
-This means 
-It is easiest to understand what a Good Atmosphere is by first understanding it's opposite. Toxicity. We've all been there, that project from hell. A miasma of despair hangs over the office, going to get coffee I idly wonder where the project went wrong?  The office is a miasma,  I explain in excruciating detail the personality faults of everyone, excepty myself, of course. Lifeless eyes turn to you as you go to get coffee, you wonder if you didn't actually accidently walk on to the set of The Walking Dead. 
-
-We want to create the opposite of that. 
-
-
-
-I hear in excruciating detail all the very specific  You are used to hearing in excruciating detail why the last  Most effort is use to explain in excruciating detail exactly why the last catastrophe was someone else's fault. Coworkers start
-
-
-To understand what a good atmosphere 
-Creating a good atmosphere on a team acts like lubricating oil, to make sure the minimize friction from the inevitable stepping on each other's toes.
-
-A good atmosphere is the opposite of toxicity. Toxicity is created from bitterness, so to combat it the opposite emotion, gratitude must be used. 
-
-The easiest
-
-trust
-
-Positivity
-
-Body language
-
-How team members feel as opposed to what they think
 
 ## Communication
 It's all about communication! The reason to create a good atmosphere is so that the team can communicate with each other.
