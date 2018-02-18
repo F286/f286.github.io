@@ -12,7 +12,7 @@ In my experience, the most fundamental layer of getting a team to work is to fir
 If you are bitter, feel graditiude instead as it is the opposite emotion.
 Don't blame others, take personal responsibility instead.
 
-### Good Atmosphere
+### Increase Good Atmosphere
 Be positive, empathize.
 Smile and use positive body language.
 Be funny and tell jokes, especially self deprecating ones.
