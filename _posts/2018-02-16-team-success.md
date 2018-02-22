@@ -16,8 +16,6 @@ Don't blame others, take personal responsibility instead.
 Be positive, empathize.
 Smile and use positive body language.
 Be funny and tell jokes, especially self deprecating ones.
-Actually listen to what your coworker is saying - meditate on it. Assume they are smarter than you.
-Tell the truth, don't be a weasel.
 
 ## Communication
 It's all about communication! The reason to create a good atmosphere is so that the team can communicate with each other.
@@ -27,6 +25,12 @@ Understand things from their perspective
 Open atmosphere
 
 Active listening
+
+Actually listen to what your coworker is saying - meditate on it.
+
+Assume the person you are listening to is smarter than you.
+
+Tell the truth.
 
 ## Meaning
 It's all about meaning! The reason to be able to communicate is to do something meaningful.
