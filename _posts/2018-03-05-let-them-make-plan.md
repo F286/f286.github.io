@@ -31,4 +31,4 @@ After some back and forth she said, "One week."
 
 Again, after some back and forth, she replied, "If it's something important."
 
-Great! She made the plan. Sure I asked her questions, but I **let her make it**. It was her plan, and she was super motivated to carry it out. She had ownership, responsiblity, and pride in her work. And most importantly, the plan was a success.
+Great! She made the plan. Sure I asked her questions, but I **let her make it**. It was her plan, and she was super motivated to carry it out. She had ownership, responsiblity, and pride in her work. When she got tired, I joked, "Well it was your plan." She faced the challenge forthrightly, with a sense of purpose since she had chosen the approach. The mission was a success.
