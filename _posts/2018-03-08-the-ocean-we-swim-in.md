@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## The Ocean We Swim In
 
 The structure of a team is like the ocean a fish swims in, it is easy to be blind to it since we are so used to seeing it. It is the everyday process we live in, such as how work is assigned or how the areas we work in are split up. It’s proper setup and functioning is an intergral part of a team’s success, it is the ocean that the team swims in.
 
