@@ -14,11 +14,11 @@ A large undifferientated category can often be split into more specific categori
 
 Another category is code, which is sometimes split into Scripting and Core code. Scripting code is fast and dirty, and good for creatively iterating content. Core code is slow to write, but provides shared structure and can be reused between apps.
 
-Another category is areas of responsiblity, which can be split into up based on functionality or levels. This allows team members to own specific areas, which ties in with ‘Let them make the plan’. It also reduces risk, since the areas are compartmentalized a single failure will not damage the whole system, if a single area fails it can be eaisly removed and rewritten.
+Another category is areas of responsiblity, which can be split up into areas based on functionality or levels. This allows team members to own specific areas, which ties in with ‘Let them make the plan’. It also reduces risk, since the areas are compartmentalized a single failure will not damage the whole system, if a single area fails it can be eaisly removed and rewritten.
 
 ### Merge Categories that are Unimportant
 
-It can happen where team members make distinctions between categories that are not important, such as having a strong preference for using composition over inheritance. These categories should be merged together under the umbrella of programming tools, which are used pragmatically when writing code.
+It can happen where team members make distinctions between categories that are not important, such as having a strong preference for using composition over inheritance. This produces unnecessary friction. These categories should be merged together under the umbrella of programming tools, which are used pragmatically when writing code.
 
 ### Fall into a Different Category
 
