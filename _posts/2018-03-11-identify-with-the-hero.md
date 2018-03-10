@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Your identity is what you identify with. What do you consider yourself to be? For example, you may put yourself in the 'object-oriented' programming camp. If someone says, "Hey, we are in a new environment. The standard style here is component-based so we should that instead." the visceral response is something like 'burn the heretic'. This can be counter productive though, if that is actually the correct thing to do.
 
@@ -15,4 +15,4 @@ This is related to what the eye floating above the pyramid on the back of the Am
 
 Identify with the hero.
 
-
+![Pyramid Eye]({{site.baseurl}}/images/Pyramid Eye.jpg)
