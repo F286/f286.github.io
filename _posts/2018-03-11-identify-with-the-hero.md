@@ -15,4 +15,4 @@ This is related to what the eye floating above the pyramid on the back of the Am
 
 Identify with the hero.
 
-![Pyramid Eye]({{site.baseurl}}/images/Pyramid Eye.jpg)
+![PyramidEye.jpg]({{site.baseurl}}/images/PyramidEye.jpg)
