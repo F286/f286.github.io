@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+---
+published: false
+---
+>>>>>>> 17a82a5bead14885a5591d7889cb272a3e82fe36
 Issues can arise when you are not willing to change. There is a positive side to this, as it can be effective to maintain the status quo when a system is working. However, when the environment changes, it is important to be willing to abandon processes that are no longer effective, and create new ones that are effective.
 
 A common issue is when transitioning to a new coding environment, team members often maintain the coding style and conventions from the previous environment. This is part inertia and part stubborn refusal to embrace a new way of doing things.
@@ -8,4 +14,8 @@ If about 70% of your time is spent on bug fixes, it could be possible that you a
 
 #### Q. Maybe you are not willing to change to the existing system?
 
+<<<<<<< HEAD
 Just ask each person on the team if they think there are any issues with being able to improve the work processes.
+=======
+Just ask each person on the team if they think there are any issues with being able to improve the work processes.
+>>>>>>> 17a82a5bead14885a5591d7889cb272a3e82fe36
