@@ -3,6 +3,7 @@ published: true
 ---
 
 When I think, I ask, “Is this my thought? Or is this a lie?”
+
 People don’t have ideas, ideas have people. -Carl Jung
 
 # Layers of Perception
