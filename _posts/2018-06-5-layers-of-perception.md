@@ -22,6 +22,6 @@ It is important for a group to have a shared story we live in. Communication see
 
 We can use the story to predict the future since we already know the ending, and what will happen to certain characters. This gives an advantage to people who live in a complete story with good predictive power. 
 
-Without a shared story communication is difficult. Are we just searching for a story we could all live with? Then instead of fighting, we could communicate?
+Without a shared story communication is difficult. Are we just searching for a story we could all live with? Then conflict could become communication?
 
 @freedebreuil
