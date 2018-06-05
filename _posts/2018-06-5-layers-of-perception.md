@@ -2,9 +2,8 @@
 published: true
 ---
 
-When I think, I ask, “Is this my thought? Or is this a lie?”
-
-People don’t have ideas, ideas have people. -Carl Jung
+People don’t have ideas, ideas have people. - Carl Jung
+Are these my thoughts? Or are they others’ lies I am repeating?
 
 # Layers of Perception
 The three main layers of perception that seem to make sense so far are: logic, emotion, and purpose. It’s possible the more fundamental levels are ‘deeper’ features in the brain’s neural network. Perhaps purpose influences emotion, and emotion influences logic. 
