@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Let them make the plan
 
 This is maybe best explained with by a short story. 
 
