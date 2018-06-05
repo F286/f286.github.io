@@ -5,6 +5,8 @@ published: true
 youtubeId: W8hBHKV91us
 ---
 
+# Visualizing Neural Networks
+
 I've been working on visualizations for neural networks recently, the example provided is for a simple type of recursive network. Looking at the information directly can be an opaque 'wall of numbers', so I'm experimenting with creating a simple visual repersentation to show the value and derivative (gradient) of each node.
 
 ![Long Short Term Memory]({{site.baseurl}}/images/lstm.gif)

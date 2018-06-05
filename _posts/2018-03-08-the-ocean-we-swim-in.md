@@ -2,6 +2,8 @@
 published: true
 ---
 
+# The Ocean We Swim In
+
 The structure of a team is like the ocean a fish swims in, it is easy to be blind to it since we are so used to seeing it. It is the everyday process we live in, such as how work is assigned or how the areas we work in are split up. It’s proper setup and functioning is an intergral part of a team’s success, it is the ocean that the team swims in.
 
 Structural or environmental issues on a team can often be solved by improving the classification structure. In which categories things are put into changes how they are perceived, which will result in a change in behaviour. Often the indirect approach of modifying the classification structure is more effective than directly telling a team member to do something.

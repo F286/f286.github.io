@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+
+# Hero Archetype
+
 To learn is to die voluntarily and be born anew.
 
 Throwing away your idea feels like throwing away your religion.
