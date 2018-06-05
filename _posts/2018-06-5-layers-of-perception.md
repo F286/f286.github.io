@@ -3,6 +3,7 @@ published: true
 ---
 
 People don’t have ideas, ideas have people. - Carl Jung
+
 Are these my thoughts? Or are they others’ lies I am repeating?
 
 # Layers of Perception
