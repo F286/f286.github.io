@@ -17,7 +17,7 @@ Take the treasure, and share it with the community.
 
 ## Feminine Hero Archetype
 
-Desirable virginal woman tames noble beast through love.
+Desirable virginal woman tames the noble beast through love.
 
 Enters into a relationship with him, learning and changing herself.
 
