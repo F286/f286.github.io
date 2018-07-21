@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Feminine Hero Archetype - Beauty and the Beast
 
