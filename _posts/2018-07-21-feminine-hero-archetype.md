@@ -19,7 +19,7 @@ Take the treasure, and share it with the community.
 
 Desirable virginal woman tames the noble beast through love.
 
-Enters into a relationship with him, learning and changing herself.
+Enters into a relationship with him, learning and changing both.
 
 Journeying inwards, she saves and transforms him, becoming one.
 
