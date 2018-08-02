@@ -7,23 +7,24 @@ Thinking about how the positive chaos archetype, bountiful nature and creation, 
 
 ## Masculine Hero Archetype
 
-Voluntary confront the dragon of chaos.
+Venture into the unknown and slay the dragon of chaos.
 
-Burn away what no longer works, die and be reborn.
+Burn away your flaws, die and be reborn.
 
-Slay it, and create the world out of it’s pieces.
+Share the treasure.
 
-Take the treasure, and share it with the community.
+And become some sort of hero.
+
 
 ## Feminine Hero Archetype
 
-Desirable virginal woman tames the noble beast through love.
+Seek out the savage beast, tame it with love.
 
-Enters into a relationship with him, learning and changing both.
+Journey inwards, die and be reborn.
 
-Journeying inwards, she saves and transforms him, becoming one.
+Transmute it into the saviour.
 
-She creatively bears children.
+Give it up for sacrifice.
 
 ----
 
