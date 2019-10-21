@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+remote_theme: pmarsceill/just-the-docs
 
 # Name of your site (displayed in the header)
 name: Free Debreuil
@@ -84,5 +85,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-remote_theme: pmarsceill/just-the-docs
