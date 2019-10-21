@@ -1,4 +1,4 @@
 title: "Free"
 remote_theme: pmarsceill/just-the-docs
-color_scheme:
+# color_scheme: "dark"
 search_enabled: false
