@@ -16,5 +16,7 @@ Communication!
 
 ## Work to consistently raise the bar
 
+### Notes
+
 > be specific and action oriented.
 
