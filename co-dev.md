@@ -4,19 +4,45 @@ has_children: true
 nav_order: 20
 ---
 
-# # Rules for Co-dev
+# 5 Rules for Co-dev
 
-## Focus on Relationships
+**co-dev**
+*(noun)*
+Abbreviation of co-development. To work towards a common goal with another team. Esp. remote or from a different company.
 
-Create a good atmosphere. aim to have your team look forward to coming to work.
+The greatest obstacle a co-dev studio must overcome is:
 
-Communication!
+Why can't we just do this in-house?
+
+It is more difficult to have a successful co-dev team than a local team. There are more variables that can go wrong when the team is separated physically.
+
+Mistakes that would hamstring a local team will often shatter a co-dev team.
+
+However, by focusing on the right areas, it is possible to create a co-dev team that will shock you with it effectiveness.
+
+## Chat with video every morning
+
+Not being in the same room is a hurdle that a co-dev team must overcome. People tend to naturally congeal if they are in the same space together. If they are not, these opportunities and rituals must be intentionally constructed.
+
+Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a joke. Keep things professional, but recognize you are talking to a human, not a robot.
+
+Focus on building a good relationship with teammates. This will build up *trust*, the ability to believe another person. As direct oversight is limited, being able to take someone at their word is a necessity to move forward.
 
 ## Provide value not obtainable anywhere else
 
 ## Work to consistently raise the bar
 
+## Work in the same space
+Work in a shared space
+JIRA, etc. Put work and personal task organization in a spot that is naturally visible to other team members.
+
+## Be honest
+
+## Focus on Communication
+
+Be honest about both successes and risks. 
+
 ### Notes
 
-> be specific and action oriented.
+be specific and action oriented.
 
