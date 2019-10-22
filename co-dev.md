@@ -1,13 +1,20 @@
 ---
 title: Rules for Co-Dev
 has_children: true
-nav_order: 0
+nav_order: 20
 ---
 
-# Focus on Relationships
-Create a good atmosphere
+# # Rules for Co-dev
+
+## Focus on Relationships
+
+Create a good atmosphere. aim to have your team look forward to coming to work.
+
 Communication!
 
-# Deliver stellar results
+## Provide value not obtainable anywhere else
 
-# Examine your own process
+## Work to consistently raise the bar
+
+> be specific and action oriented.
+

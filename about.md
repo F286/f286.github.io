@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+has_children: false
+nav_order: 10
 ---
 
 I started programming at a young age, 9 or so, and have loved it ever since. When I was a kid my dad had a rule that if I programmed for an hour and a half, I could play video games for half an hour. And I played a lot of video games. My first language was C#, but since then I’ve branched out and recently also enjoy C++ and various web languages. My brother and I have programmed together since we were kids, and will continue to do so into the future I hope. 
