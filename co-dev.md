@@ -28,7 +28,10 @@ Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a j
 
 Focus on building a good relationship with teammates. This will build up *trust*, the ability to believe another person. As direct oversight is limited, being able to take someone at their word is a necessity to move forward.
 
-## Provide value not obtainable anywhere else
+## Be Indispensable
+### Provide value not obtainable anywhere else
+Ideally do this in a positive way, ie combination of skills, expertise that is not available locally.
+This can be done in 'not good' way as well by trying to create a dependence. This is what every company tries to do. That is why they have proprietary platforms, standards, etc.. 
 
 ## Work to consistently raise the bar
 
