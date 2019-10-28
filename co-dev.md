@@ -18,7 +18,7 @@ You can get away with a lot when the team is in the same room. When a team is no
 
 It's not rocket science however. With a solid understanding of the fundumentals, you will be able to create a highly effective co-dev team.
 
-I will outline how to do this below.
+Let's look at how to do this below.
 
 ## Chat with video every morning
 
