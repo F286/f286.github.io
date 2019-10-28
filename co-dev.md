@@ -8,30 +8,35 @@ nav_order: 20
 
 **co-dev**
 *(noun)*
-Abbreviation of co-development. To work towards a common goal with another team. Esp. remote or from a different company.
+Co-develop. To work with another team. Often used when teams are at different locations.
 
-The greatest obstacle a co-dev studio must overcome is:
+The greatest challenge to overcome when working co-dev is.
 
-Why can't we just do this in-house?
+Can't we just do this in-house?
 
-It is more difficult to have a successful co-dev team than a local team. There are more variables that can go wrong when the team is separated physically.
+You can get away with a lot when the team is in the same room. When a team is not in the same physical space, much of what we take for granted must be done intentionally.
 
-Mistakes that would hamstring a local team will often shatter a co-dev team.
+It's not rocket science however. With a solid understanding of the fundumentals, you will be able to create a highly effective co-dev team.
 
-However, by focusing on the right areas, it is possible to create a co-dev team that will shock you with it effectiveness.
+I will outline how to do this below.
 
 ## Chat with video every morning
 
-Not being in the same room is a hurdle that a co-dev team must overcome. People tend to naturally congeal if they are in the same space together. If they are not, these opportunities and rituals must be intentionally constructed.
+Not being in the same room is a hurdle the team must overcome. We tend to naturally congeal if we are in the same space together. If we are not, these opportunities and rituals must be intentionally constructed.
 
-Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a joke. Keep things professional, but recognize you are talking to a human, not a robot.
+Chat with video every morning. Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a joke. Keep things professional, but remember you are talking to a human, not a robot.
 
 Focus on building a good relationship with teammates. This will build up *trust*, the ability to believe another person. As direct oversight is limited, being able to take someone at their word is a necessity to move forward.
 
-## Be Indispensable
-### Provide value not obtainable anywhere else
-Ideally do this in a positive way, ie combination of skills, expertise that is not available locally.
-This can be done in 'not good' way as well by trying to create a dependence. This is what every company tries to do. That is why they have proprietary platforms, standards, etc.. 
+## Develop the app you need
+
+Provide something that is critical to your co-dev partner, that they cannot find locally. That could be a level of quality or expertise in several areas that can be uniquely combined.
+
+Without this, your co-dev partner has no logical reason to continue working with you. As many things are easier with someone in-house, this is an unstable situtation to be in as you could be replaced at any moment with little to no downside to them.
+
+By providing critical value, the relationship will have a solid foundation.
+
+The flip-side to this is to artifically create a dependence, such as Apple locking iMessage to only work within their ecosystem. This is a sliding scale, but be careful with this as it can be perceived badly.
 
 ## Work to consistently raise the bar
 
