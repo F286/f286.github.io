@@ -28,7 +28,7 @@ Chat with video every morning. Encourage a good atmosphere. Keep things relaxed 
 
 Focus on building a good relationship with teammates. This will build up *trust*, the ability to believe another person. As direct oversight is limited, being able to take someone at their word is a necessity to move forward.
 
-## Develop the app you need
+## Without them we're toast
 
 Provide something that is critical to your co-dev partner, that they cannot find locally. That could be a level of quality or expertise in several areas that can be uniquely combined.
 
