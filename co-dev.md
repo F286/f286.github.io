@@ -24,7 +24,7 @@ Let's look at how to do this below.
 
 Not being in the same room is a hurdle the team must overcome. We tend to naturally congeal if we are in the same space together. If we are not, these opportunities and rituals must be intentionally constructed.
 
-Chat with video every morning. Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a joke. Keep things professional, but remember you are talking to a human, not a robot.
+Chat with video every morning. Encourage a good atmosphere. Keep things relaxed and don't be afraid to make a joke. Keep things professional, but remember you are talking to a human, not a robot. Balance being considerate with being yourself.
 
 Focus on building a good relationship with teammates. This will build up *trust*, the ability to believe another person. As direct oversight is limited, being able to take someone at their word is a necessity to move forward.
 
