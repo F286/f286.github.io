@@ -38,6 +38,9 @@ By providing critical value, the relationship will have a solid foundation.
 
 The flip-side to this is to artifically create a dependence, such as Apple locking iMessage to only work within their ecosystem. This is a sliding scale, but be careful with this as it can be perceived badly.
 
+## Iterate on Convention
+
+
 ## Work to consistently raise the bar
 
 ## Work in the same space
