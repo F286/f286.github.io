@@ -38,8 +38,15 @@ By providing critical value, the relationship will have a solid foundation.
 
 The flip-side to this is to artifically create a dependence, such as Apple locking iMessage to only work within their ecosystem. This is a sliding scale, but be careful with this as it can be perceived badly.
 
-## Iterate on Convention
+## Knock it out of the park
 
+There is no substitute for pure effort put in to overcome challenges.
+
+## Teach yourself to fish
+
+Often instead of directly drilling into a problem, if you take a step back you can often find a way to sidestep the issue with minimal effort.
+
+By then tweaking everyday process to include this change, you will avoid this pitfall in the future.
 
 ## Work to consistently raise the bar
 
@@ -52,6 +59,8 @@ JIRA, etc. Put work and personal task organization in a spot that is naturally v
 ## Focus on Communication
 
 Be honest about both successes and risks. 
+
+Fly out to meet team for three weeks at start of project
 
 ### Notes
 
