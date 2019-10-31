@@ -40,6 +40,8 @@ The flip-side to this is to artifically create a dependence, such as Apple locki
 
 ## Knock it out of the park
 
+Delivering beyond expectation is a sure-fire way to improve team morale and strengthen relationships + trust.
+
 There is no substitute for pure effort put in to overcome challenges.
 
 ## Teach yourself to fish
