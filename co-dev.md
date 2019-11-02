@@ -50,6 +50,20 @@ JIRA, etc. Put work and personal task organization in a spot that is naturally v
 
 Be honest about both successes and risks. 
 
+## Extreme Ownership
+
+This is to take ownership and responsibility of problems, even if they are not your fault. This is because if you don't, things will simply stay the same or get worse. By doing this, you will set the example for team members. This attitude can also be encouraged directly in team members, by tweaking how areas of responsibility are chosen and owned.
+The ownership allows you to as much of a degree as possible make your own plan. You will be much more motivated to carry out this plan. Also, if something goes wrong, which it inevitably will, you will be motivated to tweak and improvise the plan, instead of going back to the person who made the plan and saying, "This plan sucks."
+It is necessary to support others, the most effective I have seen are those who support their teams while giving them as much ownership and responsibility as they can bear.
+
+## Planning and Execution
+It can be important to clearly define the difference in mindset required for planning and analysis, and in the moment execution. What motivates us in these two states is very different, and confusion between these can lead to a lack of motivation when implementing them plan.
+
+When planning something, we are motivated by what our long term goals are, and often cut things apart to analyze them and discover flaws. However, what motivates this logical part of ourselves is very different than what motivates you at 5:30 am.
+
+When doing something, we are motivated by emotion. If doing something makes us feel happy, nostalgic, relaxed. How we feel towards other people. Fear can be a great motivator, if we understand how things will fall apart if we don't put in the effort now. If in the moment we try to motivate ourselves with long term goals, it will not work as more visceral emotions are needed to motivate us in the moment.
+
+
 ### Notes
 
 be specific and action oriented.
