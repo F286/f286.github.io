@@ -38,6 +38,18 @@ By providing critical value, the relationship will have a solid foundation.
 
 The flip-side to this is to artifically create a dependence, such as Apple locking iMessage to only work within their ecosystem. This is a sliding scale, but be careful with this as it can be perceived badly.
 
+## Knock it out of the park
+
+Delivering beyond expectation is a sure-fire way to improve team morale and strengthen relationships + trust.
+
+There is no substitute for pure effort put in to overcome challenges.
+
+## Teach yourself to fish
+
+Often instead of directly drilling into a problem, if you take a step back you can often find a way to sidestep the issue with minimal effort.
+
+By then tweaking everyday process to include this change, you will avoid this pitfall in the future.
+
 ## Work to consistently raise the bar
 
 ## Work in the same space
@@ -63,6 +75,7 @@ When planning something, we are motivated by what our long term goals are, and o
 
 When doing something, we are motivated by emotion. If doing something makes us feel happy, nostalgic, relaxed. How we feel towards other people. Fear can be a great motivator, if we understand how things will fall apart if we don't put in the effort now. If in the moment we try to motivate ourselves with long term goals, it will not work as more visceral emotions are needed to motivate us in the moment.
 
+## Fly out to meet team for three weeks at start of project
 
 ### Notes
 
