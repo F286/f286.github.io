@@ -73,7 +73,9 @@ It can be important to clearly define the difference in mindset required for pla
 
 When planning something, we are motivated by what our long term goals are, and often cut things apart to analyze them and discover flaws. However, what motivates this logical part of ourselves is very different than what motivates you at 5:30 am.
 
-When doing something, we are motivated by emotion. If doing something makes us feel happy, nostalgic, relaxed. How we feel towards other people. Fear can be a great motivator, if we understand how things will fall apart if we don't put in the effort now. If in the moment we try to motivate ourselves with long term goals, it will not work as more visceral emotions are needed to motivate us in the moment.
+When doing something, we are motivated by emotion. If doing something makes us feel happy, nostalgic, relaxed. How we feel towards other people. Fear can be a great motivator, if we understand how things will fall apart if we don't put in the effort now. If in the moment we try to motivate ourselves with long term goals, it will not work as more visceral emotions are needed to motivate us in the moment. 
+
+In the moment it is important to enjoy doing, be satisfied, be relaxed by doing something. This is what motivates you to continue doing it. On the other hand, when analyzing and planning something, cutting it into pieces and seeing what could be tweaked, things such as long term goals or improving the work environment come into focus. Both are important and complement each other, but are motivated by quite different things and need to be separated or they can become confused and misapplied to each other.
 
 ## Fly out to meet team for three weeks at start of project
 
