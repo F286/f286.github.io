@@ -15,7 +15,7 @@ We need to examine our presuppositions of how we are approaching a problem; to f
 
 By iteratively improving our implicit knowledge structure over time, we can eventually become capable of solving an impossible problem.
 
-(Impossible problem)[impossible_problem.JPG]
+![Impossible problem](impossible_problem.JPG)
 
 # Notes
 
