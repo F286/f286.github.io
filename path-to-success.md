@@ -17,6 +17,37 @@ By iteratively improving our implicit knowledge structure over time, we can even
 
 (Impossible problem)[impossible_problem.JPG]
 
+# Iteration time
+
+A fast iteration time is important.
+
+Simplicity is important because speed of executionl or perhaps more importantly, time, is a critical factor when solving a problem.
+
+> I am become death (time), the destroyer of worlds."
+
+The environment changes with time, so it is harder, or even impossible to hit a moving target.
+
+Simplicity directly results in a faster *reaction speed*, which allows maneuver in a dynamic situation.
+
+> Reflexes are faster than musicales since they are simpler.
+
+Especially in a complex competitive situation between humans, faster reaction and maneuver can result in complete victory, not just an incremental advantage. However even incremental advantage quickly snowballs to overwhelming victory with the Pareto Principle.
+
+> Pareto Principle - The rich get richer and the poor get poorer.
+
+Simple reduces the iteration time of your hook into something that is real. This allows you to pick up a signal more clearly, as you measure after each iteration step.
+
+	  observe
+	    ->
+	me       reality
+	    <-
+	  feedback (signal)
+  
+	Iteration loop
+	
+	
+	
+
 # Notes
 
 # How to solve an impossible problem
