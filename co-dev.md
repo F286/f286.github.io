@@ -50,6 +50,8 @@ Often instead of directly drilling into a problem, if you take a step back you c
 
 By then tweaking everyday process to include this change, you will avoid this pitfall in the future.
 
+## Always bring omiyage
+
 ## Work to consistently raise the bar
 
 ## Work in the same space
