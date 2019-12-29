@@ -17,6 +17,13 @@ By iteratively improving our implicit knowledge structure over time, we can even
 
 ![Impossible problem](impossible_problem.JPG)
 
+We need to notice what we spend our attention on, then measure if if affects outcomes. If the path forward does not feel viable, we need to discuss what the goal actually is, then ask if our assumptions have blinded us to a potentially viable path.
+
+Keeping this simple is important since it lets us iterate faster, allowing us to measure a signal more often so we will know if we are going in the right direction or not.
+
+*FUN!*
+
+
 # Iteration time
 
 A fast iteration time is important.
