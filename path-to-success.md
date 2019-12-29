@@ -23,6 +23,7 @@ Keeping this simple is important since it lets us iterate faster, allowing us to
 
 *FUN!*
 
+<!--
 
 # Iteration time
 
@@ -97,6 +98,8 @@ Allows you to develop skill and expertise in area as you are doing it.
 Can 'debug' and discover path to move forward as doing.
 
 > The product must be viable at every stage
+
+-->
 
 ### In practice
 
